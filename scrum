@@ -1,0 +1,106 @@
+Daily Scrum
+
+5/12/2022
+Jeorge
+- Create S3 account
+- Create index page
+
+Takafumi
+- Create Trello
+- Create admin dashboard
+
+Zeshi
+- Create registration and registration success page
+
+5/13/2022
+Takafumi
+- To do - Create each page in admin dashboard with forms
+
+Jeorge
+- Create payment/confirmation page
+
+Zeshi
+- Create login page
+
+5/14/2022
+- create cart service for index page
+
+5/15/2022
+- create login authentification
+
+5/16/2022
+Jeorge
+- Still working on cart and payment
+- Create function to edit customer info
+
+5/17/2022
+Zeshi
+-Done
+    - Update login pages
+- To Do
+    - Implement authentification with Spring Security
+    - Implement user editing
+- Assistance
+    -Git merging conflict
+
+5/18/2022
+Jeorge
+- Done
+	- Connected github with heroku
+	- Some admin controllers
+- To Do
+	- Remaining admin functions/controllers
+	- Cart, Confirmation and Payment
+- Need Assitance / Figure things out
+	- Heroku application deployment
+
+Zeshi
+- Done
+    - User editing
+- To Do
+    - Authentification
+- Challenges
+    - Spring Security
+
+5/19/2022
+Jeorge
+- Done
+	- 
+- To Do
+	- Finish cart and payment
+	- Finish index page
+
+Zeshi
+- Done
+    - Presentation Powerpoint
+    - Authentification
+- To Do
+	- Finish admin pages and controllers
+- Challenges
+    - Roles
+
+5/21/2022
+Zeshi
+- Done
+    - Heroku Web hosting
+- To Do
+    - S3 database
+- Challenges
+    - Heroku CLI and Procfile
+5/22/2022
+Jeorge
+- Done
+    - Admin pages
+- To Do
+    - Cart
+    - Stripe Payment
+- Challenges
+    - Cart Item update and delete
+    - Stripe payment
+5/23/2022
+- Done
+    - Stripe
+- To Do
+    - Cart
+    - Order saving
+    - Delivery
